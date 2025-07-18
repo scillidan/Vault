@@ -4,3 +4,4 @@
 *.pdf
 *.sidecar.md
 attach/latex/pkg-jpg/**
+/read

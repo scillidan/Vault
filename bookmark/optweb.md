@@ -2,6 +2,7 @@
 
 - [AudioMass](https://audiomass.co)
 - [BookSearchParty](https://booksearch.party)
+- [Choose an open source license](https://choosealicense.com/)
 - [Creative Commons Licenses for GitHub Projects](https://github.com/santisoler/cc-licenses)
 - [Dev Encyclopedia;](https://devpedia.dev)
 - [DevDocs](https://devdocs.io)
