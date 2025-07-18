@@ -1,0 +1,6 @@
+.obsidian
+.trash
+.editorconfig
+*.pdf
+*.sidecar.md
+attach/latex/pkg-jpg/**
