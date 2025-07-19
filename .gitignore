@@ -3,5 +3,5 @@
 .editorconfig
 *.pdf
 *.sidecar.md
-attach/latex/pkg-jpg/**
 /read
+/attach/latex
