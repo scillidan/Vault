@@ -6,7 +6,6 @@ tags:
   - essence
 ---
 
-
 - Exsudat [渗出物]  
   从树木创口中流出的一切物质
 
