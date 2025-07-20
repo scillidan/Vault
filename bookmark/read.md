@@ -103,7 +103,6 @@
 - #post [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania?useskin=vector#Alternative_terminology)
 - #post [music dna legacies](https://pudding.cool/2025/04/music-dna/)
 - #post [Navigating the World of Open-Source Large Language Models](https://www.bentoml.com/blog/navigating-the-world-of-large-language-models)
-- #post [Semantic Versioning](https://semver.org)
 - #post [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - #post [Tag Field Mappings](https://docs.mp3tag.de/mapping/)
 - #post [Technical debt vs technical assets: What's the difference?](https://liblab.com/blog/accruing-technical-assets-vs-paying-off-technical-debt)

@@ -6,7 +6,7 @@
 
 The Medieval Latin word is said to have been first used by Johannes de Garlandia (John of Garland) as the title of a Latin vocabulary published c. 1220. Probably first English use in title of a book was in Sir Thomas Elyot's "Latin _Dictionary_" (1538).
 
-As an adjective, "of or pertaining to a dictionary," from 1630s. _Dictionarist_ "compiler of a dictionary" (1610s) is older than _dictionarian_ (1806 as a noun, 1785 as an adjective). Grose's 1788 "Dictionary of the Vulgar Tongue" has "RICHARD SNARY. A dictionary."
+As an adjective, "of or pertaining to a dictionary," from 1630s._Dictionarist_ "compiler of a dictionary" (1610s) is older than _dictionarian_ (1806 as a noun, 1785 as an adjective). Grose's 1788 "Dictionary of the Vulgar Tongue" has "RICHARD SNARY. A dictionary."
 
 > Most people, however, after they have learned to spell, keep \[English dictionaries\] mainly for show, the end they best fulfil. Lexicographers apart, it is only a curious inquirer, here and there, that appreciates intelligently their deplorable vanity and delusiveness. \[Fitzedward Hall, "Modern English," 1873\]
 

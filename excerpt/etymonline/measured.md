@@ -27,7 +27,7 @@ The meaning "treatment 'meted out' to someone" is from 1590s; that of "plan or c
 
 ## measured (adj.)
 
-late 14c., "moderate, temperate" (a sense now obsolete), past-participle adjective from [_measure_](https://www.etymonline.com/word/measure#etymonline_v_12499 "Etymology, meaning and definition of measure") (v.) in the sense of "exercise moderation." Meaning "uniform, regular, characterized by uniformity of movement or rhythm" is from c. 1400. That of "ascertained or determined by measuring" is from mid-15c. Meaning "deliberate, restrained" is from 1802.
+late 14c., "moderate, temperate" (a sense now obsolete), past-participle adjective from[_measure_](https://www.etymonline.com/word/measure#etymonline_v_12499 "Etymology, meaning and definition of measure")(v.) in the sense of "exercise moderation." Meaning "uniform, regular, characterized by uniformity of movement or rhythm" is from c. 1400. That of "ascertained or determined by measuring" is from mid-15c. Meaning "deliberate, restrained" is from 1802.
 
 ```md
 形容词 **measured** 出现于14世纪晚期，意为“适度的，有节制的”（该义现已废止），为动词 [_measure_](https://www.etymonline.com/word/measure#etymonline_v_12499 "Etymology, meaning and definition of measure") 的过去分词形容词，含义为“实行节制”。“统一的，有规律的，具有均匀运动或节奏特征的”义项起始于约1400年；“经测量确定的”义项见于15世纪中叶；“深思熟虑的，克制的”义项始于1802年。

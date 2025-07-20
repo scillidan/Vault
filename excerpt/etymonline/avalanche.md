@@ -1,12 +1,12 @@
 ## avalanche (n.)
 
-"fall or slide of a mass of snow on a mountain slope," 1763, from French _avalanche_ (17c.), from Romansch (Swiss) _avalantze_ "descent," altered (by metathesis of _-l-_ and _-v-_, probably influenced by Old French _avaler_ "to descend, go down," _avalage_ "descent, waterfall, avalanche") from Savoy dialect _lavantse_, from Provençal _lavanca_ "avalanche," perhaps from a pre-Latin Alpine language (the suffix _-anca_ suggests Ligurian).
+"fall or slide of a mass of snow on a mountain slope," 1763, from French_avalanche_(17c.), from Romansch (Swiss)_avalantze_"descent," altered (by metathesis of_-l-_and_-v-_, probably influenced by Old French_avaler_"to descend, go down,"_avalage_"descent, waterfall, avalanche") from Savoy dialect_lavantse_, from Provençal_lavanca_"avalanche," perhaps from a pre-Latin Alpine language (the suffix_-anca_suggests Ligurian).
 
-It later was extended to falls of rock and landslides. Shortened form _valanche_ is by 1766. As a verb, from 1872.
+It later was extended to falls of rock and landslides. Shortened form_valanche_is by 1766. As a verb, from 1872.
 
-Middle English had a verb _avalen_ "to lower (something); come down or descend from a height, flow down," c. 1300, from Old French _avaler_; with extended senses "yield, give place, let fall, lower, doff" it survived into early Modern English as _avale_ and was used by Shakespeare, Marlowe, Greene, Beaumont & Fletcher.
+Middle English had a verb_avalen_"to lower (something); come down or descend from a height, flow down," c. 1300, from Old French_avaler_; with extended senses "yield, give place, let fall, lower, doff" it survived into early Modern English as_avale_and was used by Shakespeare, Marlowe, Greene, Beaumont & Fletcher.
 
-Also compare archaic _valson_ "a movement downward, descent," used late 15c. in reference to the migration of eels, from Old French _avalaison_ (Latin _aualatio_).
+Also compare archaic_valson_"a movement downward, descent," used late 15c. in reference to the migration of eels, from Old French_avalaison_(Latin_aualatio_).
 
 ```md
 **avalanche**（雪崩，山坡上一大块雪的坠落或滑落）一词始见于1763年，来源于17世纪法语 _avalanche_，来自瑞士罗曼什语（Romansch）_avalantze_，意为“下降”，该词通过字母易位（_‑l‑_ 与 _‑v‑_ 的位置交换）而改变，可能受古法语 _avaler_ “下落，下降”和 _avalage_ “下降，瀑布，雪崩”的影响。其更早词源是萨瓦方言 _lavantse_，源自普罗旺斯语 _lavanca_，意为“雪崩”，可能来自拉丁语前的阿尔卑斯地区语言（后缀 _‑anca_ 暗示其为利古里亚语系）。
