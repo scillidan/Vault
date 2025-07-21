@@ -1,9 +1,9 @@
 - [【CoC跑团】【完结合集】淤泥之花与空心石](https://www.bilibili.com/video/BV1v64y1y79w)
 - [【COC跑团】沙盒秘密团 | 欲望之箱 · 第一章 [合集]](https://www.bilibili.com/video/BV1xK4y1m77V)
-- [类生化危机游戏【乌鸦谷】全秘密收集通关](https://www.bilibili.com/video/BV1hi7LzREJA)
 - [无光之海（sunless sea）01【实况+全结局】【使用来自贴吧kaitai97分享的高完整度翻译包】](https://www.bilibili.com/video/BV1ti421d7hp)
-- [【红豆】耗时6年终于完结的高质量恐怖解谜RPG丨血怨](https://www.bilibili.com/video/BV1czvbeYEpg)
 
+- [【地缚猫QB】乌鸦之国Crow Country【通关达成】！](https://www.bilibili.com/video/BV1LNdwYCESF)
+- [怂包主播大战中式恐怖，吓懵了大哥别杀我啊啊啊啊啊【游戏实况】](https://www.bilibili.com/video/BV1RrgczzE8Y)
 - [【红豆】慢热的复古像素风恐怖推理游戏！星影之馆杀人事件](https://www.bilibili.com/video/BV1iQz2YwE4q)
 - [【幽灵霍迪】 Hauntii全流程通关-动作冒险解谜游戏（END）](https://www.bilibili.com/video/BV1af421R7Md)
 - [【赤痕 月之诅咒2】通关流程](https://www.bilibili.com/video/BV1cd4y1M71c)

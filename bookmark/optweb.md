@@ -34,6 +34,7 @@
 - [SYMBL](https://symbl.cc)
 - [TableConvert](https://tableconvert.com)
 - [texdoc online documentation](https://texdoc.org/index.html)
+- [The Island of TeX](https://islandoftex.gitlab.io)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [Visual Fashion Findel](https://shopwithpixie.com/visual-fashion-finder)
 - [Winbindex](https://winbindex.m417z.com)
