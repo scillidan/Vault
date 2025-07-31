@@ -1,11 +1,13 @@
 ## web
 
 - [AudioMass](https://audiomass.co)
+- [Battery Life Calculator](https://a64.in/tools/battery-life-calculator.html)
 - [BookSearchParty](https://booksearch.party)
 - [Choose an open source license](https://choosealicense.com/)
 - [Creative Commons Licenses for GitHub Projects](https://github.com/santisoler/cc-licenses)
 - [Dev Encyclopedia;](https://devpedia.dev)
 - [DevDocs](https://devdocs.io)
+- [Doggo DNS](https://doggo.mrkaran.dev)
 - [DownSub](https://downsub.com)
 - [Dynamic Dummy Image Generator](https://dummyimage.com)
 - [Emoji Keyboard Online](https://emojikeyboard.io)
