@@ -16,7 +16,7 @@
 - [F-Droid](https://newapps.f-droid.othing.xyz/new_apps.en-US.xml)
 - [Flathub](https://flathub.org/api/v2/feed/new)
 - [GitHub Trending RSS](https://github.com/mshibanami/GitHubTrendingRSS)
-- [LobeHub Assistant Market \| RSS Feed](https://lobehub.com/assistants/feed)
+- [LobeHub Assistant Market \| RSS Feed](#https://lobehub.com/assistants/feed)
 - [Obsidian Stats](https://www.obsidianstats.com/rss.xml)
 - [ueffel's Package Repository](https://ue.spdns.de/packagecontrol/)
 - [VS Code Marketplace - Recently Added](https://ewired--01814f2c279d11f09d52569c3dd06744.web.val.run/api/vscode.recent.atom)

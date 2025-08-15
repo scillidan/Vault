@@ -9,5 +9,5 @@ the reverting of land to a king or lord in certain cases, early 14c., from Anglo
 - _escheoir_ 发生
 - _eschete_ 继承
 - _excadere_ 掉落
-- _cadere_ 落下
+- _cadere_ 落下 [GPT-4o mini]
 ```

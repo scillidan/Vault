@@ -27,5 +27,5 @@ To _**live it up**_ "live gaily and extravagantly" is from 1903. To _**live up t
 - lifian 活着，经历  
 - libban 活着，谋生  
 - *libejanan 活着（原始日耳曼语）  
-- *leip- 粘附，坚持（原始印欧语词根）
+- *leip- 粘附，坚持（原始印欧语词根） [GPT-4o mini]
 ```

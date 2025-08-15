@@ -16,5 +16,5 @@ It is attested from late 14c. as "sever the union or connection with," also "dis
 - *(d)uid-_ 分开，区分  
 - avidhat 分配  
 - vida-_ 致力于  
-- devise 设计，想出（词根相关）
+- devise 设计，想出（词根相关） [GPT-4o mini]
 ```

@@ -18,5 +18,5 @@ _**_Food_ chain**_ is by 1915. _**_Food_ poisoning**_ attested by 1864; _**food 
 - fodon 食物（原始日耳曼语）  
 - fod 食物（日耳曼语）  
 - pat- 喂养（原始印欧语）  
-- pa- 喂养（词根）
+- pa- 喂养（词根） [GPT-4o mini]
 ```

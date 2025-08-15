@@ -16,5 +16,5 @@
 - tauto- 同一  
 - -logos 话语  
 - tautological 同义反复的  
-- tautologize 做同义反复
+- tautologize 做同义反复 [GPT-4o mini]
 ```

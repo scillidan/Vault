@@ -11,7 +11,7 @@ early 15c., _separaten_, transitive, "remove, detach completely; divide (somethi
 - se- 分开  
 - parare 准备，生产  
 - pere- 原始印欧语“生产，获得”词根  
-- sever 断开，切断（相关词）
+- sever 断开，切断（相关词） [GPT-4o mini]
 ```
 
 ## separate (adj.)
@@ -36,5 +36,5 @@ _**Separate but equal**_ in reference to U.S. segregation policies on railroads,
 - separately 分别地  
 - separateness 分离状态  
 - Separate but equal 分离但平等（美国种族隔离政策）  
-- Separate development 分离发展（南非种族隔离政策）
+- Separate development 分离发展（南非种族隔离政策） [GPT-4o mini]
 ```

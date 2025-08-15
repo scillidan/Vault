@@ -25,11 +25,11 @@ Also compare archaic_valson_"a movement downward, descent," used late 15c. in re
 - lavanca 雪崩（普罗旺斯语）  
 - valson 向下运动，下降  
 - avalaison 鳗鱼迁移下游  
-- aualatio 鳗鱼下游迁移
+- aualatio 鳗鱼下游迁移 [GPT-4o mini]
 ```
 
-> a word for a feeling of anticipation equal parts enthusiasm and anxiety ahead of the near certainty of an avalanche harvest, the moment we dreamt when planting an orchard so long ago and the energy required in attempt to respect that original vision and figure out what to do with it all [240721-avalanche, https://nnnnnnnn.co/log/240721-avalanche.html]
+> a word for a feeling of anticipation equal parts enthusiasm and anxiety ahead of the near certainty of an avalanche harvest, the moment we dreamt when planting an orchard so long ago and the energy required in attempt to respect that original vision and figure out what to do with it all [nnnnnnnn.co/log/240721-avalanche.html]
 
 ```md
-一种期待的情感，既充满热情又带有焦虑，面对即将来临的雪崩般的收获时刻，那是我们在多年前种植果园时所梦想的时刻，以及为了尊重最初的愿景而投入的精力，努力想要处理这所有的一切。
+一种期待的情感，既充满热情又带有焦虑，面对即将来临的雪崩般的收获时刻，那是我们在多年前种植果园时所梦想的时刻，以及为了尊重最初的愿景而投入的精力，努力想要处理这所有的一切。 [GPT-4o mini]
 ```

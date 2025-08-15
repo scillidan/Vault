@@ -13,7 +13,7 @@ Meaning "drift about, hover passively" is from c. 1300. Transitive sense of "to 
 - flotian 漂浮（水面）  
 - *flotan 漂浮（日耳曼语）  
 - *plud- 流动（原始印欧语）  
-- *pleu- 流动
+- *pleu- 流动 [GPT-4o mini]
 ```
 
 ## float (n.)
@@ -37,5 +37,5 @@ apparently an early Middle English merger of three related Old English nouns, _f
 - flot 水体，海洋  
 - sherbet float 雪葩漂浮饮  
 - ice-cream float 冰淇淋漂浮饮  
-- float (parade) 游行花车，轮式花车
+- float (parade) 游行花车，轮式花车 [GPT-4o mini]
 ```

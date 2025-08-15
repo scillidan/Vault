@@ -9,5 +9,5 @@
 - post 后
 - scribere 书写
 - postscribere 在后书写
-- scriptum 书写的事物
+- scriptum 书写的事物 [GPT-4o mini]
 ```

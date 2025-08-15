@@ -9,7 +9,7 @@ c. 1600, "state of being linked together," from Late Latin _concatenationem_ (no
 - concatenare 连接在一起  
 - com 一起  
 - catenare 链接  
-- catena 链条
+- catena 链条 [GPT-4o mini]
 ```
 
 ## concatenate (v.)
@@ -24,5 +24,5 @@ c. 1600, "state of being linked together," from Late Latin _concatenationem_ (no
 - concatenare 连接在一起  
 - com 一起  
 - catenare 链接  
-- catena 链条
+- catena 链条 [GPT-4o mini]
 ```

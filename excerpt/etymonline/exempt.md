@@ -22,5 +22,5 @@ c. 1400,_exempten_, "to relieve, to free or permit to be free" (from some requir
 
 - exempten 免除  
 - exempter 免除（动词）  
-- exempt 免除（形容词）
+- exempt 免除（形容词） [GPT-4o mini]
 ```

@@ -13,5 +13,5 @@ By 1550s as "change the nature, character, or disposition of." The intransitive 
 - transformer 古法语变形  
 - transformare 拉丁语改变形状  
 - trans- 穿过，超越  
-- formare 形成
+- formare 形成 [GPT-4o mini]
 ```

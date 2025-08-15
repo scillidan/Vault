@@ -15,5 +15,5 @@
 - pleonasmos 希腊语过剩  
 - pleonazein 超过所需，多余  
 - pleon 更多（希腊语词根）  
-- *pele- 填满（原始印欧语词根）
+- *pele- 填满（原始印欧语词根） [GPT-4o mini]
 ```

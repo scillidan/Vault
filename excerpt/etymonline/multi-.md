@@ -9,5 +9,5 @@ before vowels _mult-_, word-forming element meaning "many, many times, much," fr
 - multus 许多（拉丁语）  
 - *ml-to- 原始印欧语复合词  
 - *mel- 强大，众多（词根）  
-- multinational 跨国的，多个国家的
+- multinational 跨国的，多个国家的 [GPT-4o mini]
 ```

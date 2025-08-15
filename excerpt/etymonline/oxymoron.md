@@ -10,5 +10,5 @@ in rhetoric, "a figure conjoining words or terms apparently contradictory so as 
 - oxys 锐利，尖锐（希腊语）  
 - *ak- 尖锐，刺穿（原始印欧语词根）  
 - mōros 愚蠢（希腊语）  
-- moron 愚人，傻瓜
+- moron 愚人，傻瓜 [GPT-4o mini]
 ```

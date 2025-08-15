@@ -9,5 +9,5 @@
 - integer (adj.) 完整的，未触摸的  
 - in- 不（否定前缀）  
 - tangere 触摸  
-- *tag- 触摸，处理（词根）
+- *tag- 触摸，处理（词根） [GPT-4o mini]
 ```

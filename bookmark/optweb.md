@@ -42,6 +42,7 @@
 - [Winbindex](https://winbindex.m417z.com)
 - [Y2Mate](https://y2mate.nu/en-GczD)
 - [You need 4 colors](https://www.iamsajid.com/colors)
+- [字幕机翻](https://tern.1c7.me)
 
 ## fork
 

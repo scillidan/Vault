@@ -9,5 +9,5 @@
 - récipé 法语处方  
 - recipe (拉丁语) 取！  
 - recipere 握住，包含  
-- Rx 药剂师缩写
+- Rx 药剂师缩写 [GPT-4o mini]
 ```

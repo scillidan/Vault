@@ -16,5 +16,5 @@ Specifically, "to destroy by use, wear out by applying to its natural or intende
 - sumere 取，用  
 - sub- 在……下  
 - emere 买，取  
-- *em- 取，用，分配
+- *em- 取，用，分配 [GPT-4o mini]
 ```

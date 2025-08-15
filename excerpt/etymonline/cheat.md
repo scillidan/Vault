@@ -15,7 +15,7 @@ Also compare[escheat](https://www.etymonline.com/word/escheat "Etymology, meanin
 - \*excadere 掉落  
 - ex- 向外  
 - cadere 落下  
-- \*kad- 落下
+- \*kad- 落下 [GPT-4o mini]
 ```
 
 ## cheat (n.)
@@ -28,5 +28,5 @@ late 14c., "forfeited property, reversion of property to a lord," from[cheat](ht
 - cheat 欺骗，没收财产  
 - escheat 无主财产收归国有  
 - cackling-chete 家禽  
-- crashing-chetes 牙齿
+- crashing-chetes 牙齿 [GPT-4o mini]
 ```

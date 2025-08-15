@@ -13,7 +13,7 @@ The_-l-_appeared in English c. 1400, an etymological insertion in imitation of e
 - _voute_ 拱
 - _volta_ 拱
 - _volvere_ 转动
-- _volutus_ 弯曲的
+- _volutus_ 弯曲的 [GPT-4o mini]
 ```
 
 ## vault (v.1)
@@ -27,5 +27,5 @@ The_-l-_appeared in English c. 1400, an etymological insertion in imitation of e
 - _volter_ 跳跃
 - _voltare_ 转动
 - _volvitare_ 转动，跳跃
-- _volvere_ 转动
+- _volvere_ 转动 [GPT-4o mini]
 ```

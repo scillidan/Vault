@@ -12,7 +12,6 @@ As an adjective, "of or pertaining to a dictionary," from 1630s._Dictionarist_ "
 
 > DICTIONARY, _n._ A malevolent literary device for cramping the growth of a language and making it hard and inelastic. This dictionary, however, is a most useful work. \[Bierce\]
 
-
 ```md
 **dictionary**（词典，字典）一词始见于1520年代，来源于中世纪拉丁语 _dictionarium_，意为“词语和短语的集合”，可能为 _dictionarius (liber)_（“词语书”）的缩写，来源于拉丁语 _dictionarius_，意为“词语的”，本身来自 _dictio_“话语，表达”，在晚期拉丁语中指“词语”，该词为 _dicere_（说话，讲述，表达）的过去分词词干形成的动作名词，源自原始印欧语词根 [\*deik-](https://www.etymonline.com/word/*deik- "Etymology, meaning and definition of *deik- ")，意为“展示”，也有“庄重宣读”的含义。
 
@@ -31,5 +30,5 @@ As an adjective, "of or pertaining to a dictionary," from 1630s._Dictionarist_ "
 - dicere 说，讲述  
 - *deik- 展示，庄重宣读  
 - dictionarist 词典编纂者  
-- dictionarian 词典编纂者（晚出现形式）
+- dictionarian 词典编纂者（晚出现形式） [GPT-4o mini]
 ```

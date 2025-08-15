@@ -65,5 +65,5 @@ It might also be the source of: Sanskrit _admi_ "I eat;" Avestan _ad-_ "to eat;"
 - obesity 肥胖症  
 - ort 食物残渣  
 - postprandial 饭后  
-- prandial 进餐的
+- prandial 进餐的 [GPT-4o mini]
 ```

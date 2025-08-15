@@ -25,5 +25,5 @@ The meaning "serve as a specimen or example of" is by 1858, at first usually pas
 - praesens 当前的，存在的  
 - praesse 在前，存在  
 - pre- 在前  
-- esse 存在
+- esse 存在 [GPT-4o mini]
 ```

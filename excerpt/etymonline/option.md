@@ -16,5 +16,5 @@ The meaning "thing that may be chosen" is attested from 1885. The commercial tra
 - *opeje- 选择，抓取（原意大利语）  
 - *hopeie- 选择，抓取（原始印欧语）  
 - epp/app- 取，抓（赫梯语）  
-- apa 已达到（梵语，阿维斯陀语）
+- apa 已达到（梵语，阿维斯陀语） [GPT-4o mini]
 ```

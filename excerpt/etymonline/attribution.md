@@ -9,5 +9,5 @@ late 15c., "action of bestowing or assigning," from Latin _attributionem_ (nomin
 - attributio 归属  
 - attribuere 分配，归属  
 - ad- 向  
-- tribuere 分配，授予
+- tribuere 分配，授予 [GPT-4o mini]
 ```

@@ -14,5 +14,5 @@
 - subtraction 减法  
 - subtractus 拉丁语过去分词，减去的  
 - subtrahere 拿走，减去  
-- subtraien 早期动词形式
+- subtraien 早期动词形式 [GPT-4o mini]
 ```

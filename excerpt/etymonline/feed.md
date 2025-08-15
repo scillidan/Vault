@@ -8,7 +8,7 @@ Old English _fedan_ "nourish, give food to, sustain, foster" (transitive), from 
 - feed 喂养，供给食物  
 - fedan 养育，供给  
 - fodjan 喂养（原始日耳曼语）  
-- *pa- 喂养
+- *pa- 喂养 [GPT-4o mini]
 ```
 
 ## feed (n.)
@@ -19,5 +19,5 @@ Old English _fedan_ "nourish, give food to, sustain, foster" (transitive), from 
 名词 **feed** 释义为“喂养的行为”，始见于1570年代，来源于动词 [_feed_](https://www.etymonline.com/word/feed#etymonline_v_1195 "Etymology, meaning and definition of feed")。表示“动物饲料”意义首次记录于1580年代。“丰盛的一餐”含义始于1808年。机械领域中，指“提供原材料的动作或系统”始见于1892年。
 
 - feed 喂养，饲料  
-- feed (v.) 喂养
+- feed (v.) 喂养 [GPT-4o mini]
 ```

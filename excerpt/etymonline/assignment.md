@@ -8,5 +8,5 @@ late 14c., "an order, request, directive," from Old French _assignement_ "(legal
 - assignment 命令，指令，任务  
 - assignare 分配  
 - adsignare 指派  
-- assignamentum 分配行为
+- assignamentum 分配行为 [GPT-4o mini]
 ```

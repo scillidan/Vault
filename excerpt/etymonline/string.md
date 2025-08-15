@@ -42,7 +42,7 @@ The meaning "limitation, stipulation" (1888) is American English, in political j
 - have two strings to one's bow 有备用手段  
 - string-band 弦乐队  
 - string bean 细豆荚  
-- string bikini 细绳比基尼
+- string bikini 细绳比基尼 [GPT-4o mini]
 ```
 
 ## string (v.)
@@ -62,5 +62,5 @@ To **__string_ (someone) along_** is slang attested by 1902 and is of uncertain 
 - strung （string的过去分词）  
 - stringing 装弦，穿线  
 - string (someone) along 愚弄某人  
-- stringed instrument 弦乐器
+- stringed instrument 弦乐器 [GPT-4o mini]
 ```

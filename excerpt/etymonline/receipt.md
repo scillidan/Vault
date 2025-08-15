@@ -15,5 +15,5 @@ The classical _\-p-_ began to be restored in the English word after c. 1500, but
 - recepta 中古拉丁语所接收之物  
 - recipere 握住，包含（拉丁语动词）  
 - capere 拿，抓（拉丁语）  
-- *recipit 接收（野拉丁语）
+- *recipit 接收（野拉丁语） [GPT-4o mini]
 ```

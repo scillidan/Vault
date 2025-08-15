@@ -19,5 +19,5 @@
 - latitude 维度  
 - platitudinous 陈腐乏味的  
 - platitudinarian 说陈词滥调的人  
-- platitudinize 说陈词滥调
+- platitudinize 说陈词滥调 [GPT-4o mini]
 ```

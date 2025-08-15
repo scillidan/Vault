@@ -12,5 +12,5 @@ late 14c., _deffinen, diffinen_, "to specify; to fix or establish authoritativel
 - definire 限制，解释  
 - de- 完全  
 - finire 界定，限制  
-- finis 边界，终点
+- finis 边界，终点 [GPT-4o mini]
 ```

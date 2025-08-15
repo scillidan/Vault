@@ -25,7 +25,7 @@ The academic sense of "point awarded for completing a course of study" is by 190
 - creditor 债权人  
 - credit union 信用合作社  
 - credit rating 信用评级  
-- credits 贡献者名单，鸣谢名单
+- credits 贡献者名单，鸣谢名单 [GPT-4o mini]
 ```
 
 ## credit (v.)
@@ -37,5 +37,5 @@ The academic sense of "point awarded for completing a course of study" is by 190
 
 - credit 相信，归因  
 - credited 被归功于  
-- crediting 归功于
+- crediting 归功于 [GPT-4o mini]
 ```

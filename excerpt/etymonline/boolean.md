@@ -8,5 +8,5 @@ in reference to abstract algebraic systems, 1851, _Boolian_, so called for Georg
 - boolean 布尔的  
 - Boolian 布尔的  
 - Boole 乔治·布尔（数学家）  
-- Bull 牛（姓氏变体）
+- Bull 牛（姓氏变体） [GPT-4o mini]
 ```

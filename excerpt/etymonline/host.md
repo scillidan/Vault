@@ -14,7 +14,7 @@ This appears to be from PIE _\*ghos-pot-_, a compound meaning "guest-master" (co
 - hospes 拉丁语“客人，主人”  
 - *ghos-pot- 宾客与主人（原始印欧语复合词）  
 - *ghos-ti- 陌生人，客人，主人（词根）  
-- *poti- 有权力的，主人（词根）
+- *poti- 有权力的，主人（词根） [GPT-4o mini]
 ```
 
 ## host (n.2)
@@ -34,7 +34,7 @@ It replaced Old English _here_ (see [harry](https://www.etymonline.com/word/harr
 - *ghos-ti- 陌生人，客人，主人（词根）  
 - here 古英语“军队”  
 - army 军队  
-- Jehovah Ts'baoth 万军之神
+- Jehovah Ts'baoth 万军之神 [GPT-4o mini]
 ```
 
 ## host (n.3)
@@ -57,5 +57,5 @@ It replaced Old English _here_ (see [harry](https://www.etymonline.com/word/harr
 动词 **host**（作为主人招待）起源于15世纪初，最初含义为“提供款待，接待为宾客”，来源于名词 [host](https://www.etymonline.com/word/host#etymonline_v_14483 "Etymology, meaning and definition of host")（n.1，主人，招待客人的人）。相关词形包括 _hosted_（已招待的）和 _hosting_（正在招待的）。
 
 - host （v.）招待，主持  
-- host （n.1）主人，招待客人的人
+- host （n.1）主人，招待客人的人 [GPT-4o mini]
 ```
