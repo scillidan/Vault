@@ -17,6 +17,7 @@
 - [GitDiagram](https://gitdiagram.com)
 - [Gothic Font Generator](https://capitalizemytitle.com/gothic-font-generator)
 - [Grammar Checker](https://wordcount.com/grammar-checker)
+- [HTML Formatter](https://webformatter.com/html)
 - [Instant Recipe Search](https://github.com/typesense/showcase-recipe-search)
 - [kitsuneko.net](https://kitsunekko.net)
 - [LinkPreview](https://linkpreview.xyz)

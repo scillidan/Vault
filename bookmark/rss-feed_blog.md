@@ -40,6 +40,7 @@
 
 ## No feed
 
+- [Daniel P Gross](https://dgross.ca/blog)
 - [Hrǽw](https://hraew.autophagy.io)
 - [início](https://fiatjaf.com)
 - [joshavanier](https://gitlab.com/joshavanier)
