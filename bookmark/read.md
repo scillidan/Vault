@@ -6,6 +6,7 @@
 - #document [Jujutsu for everyone](https://jj-for-everyone.github.io)
 - #document [ODK Docs](https://docs.getodk.org)
 - #document [Title case](https://www.wikiwand.com/en/articles/Title_case)
+- #document [像老乡鸡那样做饭](https://github.com/Gar-b-age/CookLikeHOC)
 - #guide [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
 - #guide [Creating a clean gh-pages branch](https://gist.github.com/ramnathv/2227408)
 - #guide [Creating a halftone effect with CSS](https://leanrada.com/notes/pure-css-halftone)
