@@ -2,6 +2,7 @@
 - [Extra messages](https://www.bilibili.com/video/BV1ot421P7US)
 - [【10月】火影忍者 螺旋丸 特别PV【MCE汉化组】](https://www.bilibili.com/video/BV1Dw411A7cf)
 - [【10月】火影忍者 动画开播20周年「晓」&「火之意志」纪念PV【1080P】](https://www.bilibili.com/video/BV1Ko4y1s7nQ)
+- [【动画MV】高燃！！《一发千钧》无畏契约 2025冠军赛 主题曲](https://www.bilibili.com/video/BV1AdH9zcE1d)
 - [【静止系/EVA】𝑺𝑬𝑳𝑭-𝑹𝑬𝑫𝑬𝑴𝑷𝑻𝑰𝑶𝑵](https://www.bilibili.com/video/BV1R94y1X7uq)
 - [「MEP Collecttion#東京隔都//トーキョーゲットー」](https://www.bilibili.com/video/BV1Vz4y1m7oA)
 - [【pv练习】Human ( a Android works )（ぽわぽわp カゼヒキver.）](https://www.bilibili.com/video/BV1pD4y1m7pc)

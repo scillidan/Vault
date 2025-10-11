@@ -42,6 +42,7 @@
 - #post #html [Eigentechno](https://www.isik.dev/posts/Eigentechno.html)
 - #post #html [How do animals sound across languages?](https://pudding.cool/2025/03/language/)
 - #post #html [How Sonic DNA Connects Generations of Music](https://pudding.cool/2025/04/music-dna/)
+- #post [The Faroes (2025)](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 - #blog #typeset [On Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 - #blog #typeset [Sidenotes In Web Design](https://gwern.net/sidenote)
 - #blog #typeset [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
