@@ -1,3 +1,10 @@
+## later
+
+- #blog [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
+- #document [像老乡鸡那样做饭](https://github.com/Gar-b-age/CookLikeHOC)
+
+## cache
+
 - #document [Amulet](http://www.amulet.xyz/doc)
 - #document [Bastard Keyboards](https://docs.bastardkb.com/)
 - #document [Beancount Documentation](https://beancount.github.io/docs/index.html)
@@ -6,10 +13,10 @@
 - #document [Jujutsu for everyone](https://jj-for-everyone.github.io)
 - #document [ODK Docs](https://docs.getodk.org)
 - #document [Title case](https://www.wikiwand.com/en/articles/Title_case)
-- #document [像老乡鸡那样做饭](https://github.com/Gar-b-age/CookLikeHOC)
 - #guide [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
 - #guide [Creating a clean gh-pages branch](https://gist.github.com/ramnathv/2227408)
 - #guide [Creating a halftone effect with CSS](https://leanrada.com/notes/pure-css-halftone)
+- #guide [Designing Software for Things that Rot](https://drobinin.com/posts/designing-software-for-things-that-rot/)
 - #guide [Encrypting files with YubiKey](https://hive.blog/software/@m-san/encrypting-files-with-yubikey)
 - #guide [Epub Tutorial](https://gist.github.com/stormwild/86673836eb6153e6ab2e65b4353a289e)
 - #guide [Free image CDN: Github Pages & js](https://transloadit.com/devtips/free-image-cdn-setup-with-github-pages-javascript-cdn/)
