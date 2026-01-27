@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST: CS50 Introduction to Programming with Python 2022
+
+#EXTINF:,Introduction
+https://www.bilibili.com/video/BV1TnmDYEEDd
+#EXTINF:,Lecture 0 - Functions, Variables
+https://www.bilibili.com/video/BV1KsmDY1ETs
+#EXTINF:,Lecture 1 - Conditionals
+https://www.bilibili.com/video/BV12WmDYjEsg
+#EXTINF:,Lecture 2 - Loops
+https://www.bilibili.com/video/BV1xWmDYjEh1
+#EXTINF:,Lecture 3 - Exceptions
+https://www.bilibili.com/video/BV1KWmDYjEwE
+#EXTINF:,Lecture 4 - Libraries
+https://www.bilibili.com/video/BV1xWmDYjEo4
+#EXTINF:,Lecture 5 - Unit Tests
+https://www.bilibili.com/video/BV18LmDYQEiV
+#EXTINF:,Lecture 6 - File IO
+https://www.bilibili.com/video/BV1gLmDYQEWo
+#EXTINF:,Lecture 7 - Regular Expressions
+https://www.bilibili.com/video/BV1gLmDYQEPh
+#EXTINF:,Lecture 8 - Object-Oriented Programming
+https://www.bilibili.com/video/BV18LmDYQEfd
+#EXTINF:,Lecture 9 - Et Cetera
+https://www.bilibili.com/video/BV1uLmDYQEfy

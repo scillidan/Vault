@@ -1,0 +1,29 @@
+#EXTM3U
+#PLAYLIST: CS50's Introduction to Game Development 2018
+
+#EXTINF:,Introduction
+https://www.bilibili.com/video/BV1QiU5YsEtp
+#EXTINF:,Lecture 0 - Pong
+https://www.bilibili.com/video/BV1DqU5Y9E14
+#EXTINF:,Lecture 1 - Flappy Bird
+https://www.bilibili.com/video/BV13iU5YxES5
+#EXTINF:,Lecture 2 - Breakout
+https://www.bilibili.com/video/BV1QiU5YsEzY
+#EXTINF:,Lecture 3 - Match 3
+https://www.bilibili.com/video/BV1yQU5Y5Ein
+#EXTINF:,Lecture 4 - Super Mario Bros.
+https://www.bilibili.com/video/BV1kdU5YrETa
+#EXTINF:,Lecture 5 - Legend of Zelda
+https://www.bilibili.com/video/BV1K2U5YUEZQ
+#EXTINF:,Lecture 6 - Angry Birds
+https://www.bilibili.com/video/BV122U5YmE4K
+#EXTINF:,Lecture 7 - Pokémon
+https://www.bilibili.com/video/BV122U5YmE6D
+#EXTINF:,Lecture 8 - Helicopter Game 3D
+https://www.bilibili.com/video/BV1wRU5YVE2y
+#EXTINF:,Lecture 9 - Dreadhalls
+https://www.bilibili.com/video/BV1kdU5YrEGX
+#EXTINF:,Lecture 10 - Portal
+https://www.bilibili.com/video/BV1yQU5Y5EBm
+#EXTINF:,Lecture 11 - Portal Problems
+https://www.bilibili.com/video/BV1yQU5Y5EVb

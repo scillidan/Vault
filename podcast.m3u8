@@ -1,4 +1,6 @@
 #EXTM3U
+#PLAYLIST: Podcast
+
 #EXTGRP:other
 #EXTINF:,日谈公园_360_大阪网吧纵火案
 https://raw.githubusercontent.com/scillidan/media_podcast/main/bbpark_360.ogg
@@ -12,6 +14,7 @@ https://raw.githubusercontent.com/scillidan/media_podcast/main/shijiemomingqimia
 https://raw.githubusercontent.com/scillidan/media_podcast/main/wuhoupianjian_032.ogg
 #EXTINF:,贝望录_131_“预制菜”的江湖，和你想的不一样
 https://raw.githubusercontent.com/scillidan/media_podcast/main/beiwanglu_131.ogg
+
 #EXTGRP:central
 #EXTINF:,天书广播_016_破译线形文字
 https://raw.githubusercontent.com/scillidan/media_podcast/main/tianshuguangbo_016.ogg
@@ -27,6 +30,7 @@ https://raw.githubusercontent.com/scillidan/media_podcast/main/tianshuguangbo_06
 https://raw.githubusercontent.com/scillidan/media_podcast/main/bbpark_321.ogg
 #EXTINF:,天书广播_064_伊朗核协议
 https://raw.githubusercontent.com/scillidan/media_podcast/main/tianshuguangbo_064.ogg
+
 #EXTGRP:east
 #EXTINF:,忽左忽右_143_春秋人的失败与伟大
 https://raw.githubusercontent.com/scillidan/media_podcast/main/left-right_143.ogg
@@ -54,6 +58,7 @@ https://raw.githubusercontent.com/scillidan/media_podcast/main/left-right_330.og
 https://raw.githubusercontent.com/scillidan/media_podcast/main/left-right_105.ogg
 #EXTINF:,忽左忽右_013_被现代日本「冷落」的明治维新
 https://raw.githubusercontent.com/scillidan/media_podcast/main/left-right_013.ogg
+
 #EXTGRP:west
 #EXTINF:,忽左忽右_355_与徐松岩漫谈古希腊三大史家：希罗多德、修昔底德与色诺芬
 https://raw.githubusercontent.com/scillidan/media_podcast/main/left-right_355.ogg
